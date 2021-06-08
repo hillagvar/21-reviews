@@ -38,11 +38,9 @@ img {
   font-size: 35px;
   color: rgb(34, 149, 187);
   margin-top: 10px;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 .review {
-  font-size: 26px;
-  margin: 10px 20px;
+  font-size: 22px;
+  margin: 20px 20px;
 }
