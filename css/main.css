@@ -1,0 +1,46 @@
+@import "./reset.css";
+@import "./font-awesome.min.css";
+
+.main {
+  display: inline-block;
+  margin-top: 200px;
+  width: 500px;
+  height: 400px;
+  text-align: center;
+  margin-left: calc(50% - 250px);
+  border: 2px solid rgb(6, 119, 157);
+  border-radius: 20px;
+  position: relative;
+}
+
+.arrows {
+  position: absolute;
+  width: 150px;
+  top: 320px;
+  text-align: center;
+  left: calc(50% - 75px);
+}
+
+.fa {
+  color: rgb(15, 74, 94);
+  font-size: 40px;
+  padding: 20px;
+}
+
+img {
+  margin-top: 40px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.name {
+  font-size: 40px;
+  color: rgb(34, 149, 187);
+  margin-top: 10px;
+}
+
+.review {
+  font-size: 26px;
+  margin: 10px 20px;
+}
