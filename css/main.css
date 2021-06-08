@@ -35,9 +35,11 @@ img {
 }
 
 .name {
-  font-size: 40px;
+  font-size: 35px;
   color: rgb(34, 149, 187);
   margin-top: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 .review {
